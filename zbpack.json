@@ -2,5 +2,5 @@
   "dockerfile": {
     "name": "Dockerfile"
   },
-  "start_command": "/opt/hermes/docker/entrypoint.sh"
+  "start_command": "/opt/hermes/docker/entrypoint.sh gateway start"
 }
