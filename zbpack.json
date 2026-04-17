@@ -1,0 +1,6 @@
+{
+  "dockerfile": {
+    "name": "Dockerfile"
+  },
+  "start_command": "/opt/hermes/docker/entrypoint.sh"
+}
